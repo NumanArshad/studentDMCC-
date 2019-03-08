@@ -1,0 +1,26 @@
+E:\SE Lab\StudentDMC\StudentDMC\bin\Debug\StudentDMC.exe.config
+E:\SE Lab\StudentDMC\StudentDMC\bin\Debug\StudentDMC.exe
+E:\SE Lab\StudentDMC\StudentDMC\bin\Debug\StudentDMC.pdb
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.csprojResolveAssemblyReference.cache
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.AddCourse.resources
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.AddStudent.resources
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.MainScreen.resources
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.ManageStudentsScreen.resources
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.Properties.Resources.resources
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.csproj.GenerateResource.Cache
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.exe
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.pdb
+E:\SE Lab\StudentDMC\StudentDMC\obj\Debug\StudentDMC.ShowDMC.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\bin\Debug\StudentDMC.exe.config
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.exe
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.pdb
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\bin\Debug\StudentDMC.exe
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\bin\Debug\StudentDMC.pdb
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.csprojResolveAssemblyReference.cache
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.AddCourse.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.AddStudent.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.MainScreen.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.ManageStudentsScreen.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.Properties.Resources.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.ShowDMC.resources
+E:\Books\Semester 5\SE\SE Lab\Lab Assignments\StudentDMC\StudentDMC\obj\Debug\StudentDMC.csproj.GenerateResource.Cache
